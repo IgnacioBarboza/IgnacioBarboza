@@ -8,23 +8,8 @@
 ## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
 
 <p align="center">
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  </a>
-  <a href="https://archlinux.org/" target="_blank">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,cs,dotnet,java,nodejs,react,postgres,azure,bash,linux,arch,github&theme=light" alt="My Skills" />
   </a>
 </p>
 
