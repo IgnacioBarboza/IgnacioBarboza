@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,cs,dotnet,java,nodejs,react,postgres,azure,bash,linux,arch,github&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=rust,cpp,cs,dotnet,java,react,postgres,azure,bash,linux,arch,github&theme=light" alt="My Skills" />
   </a>
 </p>
 
